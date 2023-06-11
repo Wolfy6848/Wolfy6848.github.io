@@ -3,6 +3,10 @@ h1, h2 {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
 
+h2{
+	font-size: 30px;
+}
+
 .profiles{
   display: flex;
   justify-content: center;
