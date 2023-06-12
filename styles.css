@@ -40,7 +40,13 @@ body {
 	animation: gradient 10s ease infinite;
 	height: 100vh;
 }
-
+.insp{
+	-webkit-user-select: none;
+	-webkit-touch-callout: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
 .bg{
 	position: absolute;
 	width: 650px;
