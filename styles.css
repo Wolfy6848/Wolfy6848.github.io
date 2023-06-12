@@ -28,8 +28,10 @@ p{
 }
 
 h1, h2 {
-	background: -webkit-linear-gradient(95deg, transparent 0%, #6495ed, #A020F0 50%);
+	background: -webkit-linear-gradient(95deg, transparent 0%, #6495ed, #A020F0 65%);
+	background-clip: text;
 	-webkit-background-clip: text;
+	color: transparent;
 	-webkit-text-fill-color: transparent;
 }
 body {
